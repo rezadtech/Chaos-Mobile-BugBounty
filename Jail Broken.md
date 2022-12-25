@@ -2,6 +2,9 @@
 
 
 ## Secure BootChain
+To jail broke the Iphone signiture validation must be broken. Two kind of jail broke is available:
+1. Tethered: not presistance.
+2. Untethered: presistance.
 
 
 
