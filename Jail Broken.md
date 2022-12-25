@@ -20,7 +20,16 @@ Levels of boot
 4. Kernel: after all the steps have been verified, the kernel can initialize.
 5. Applications
 
-**Note: Disable updates to preven iOS to revert jailed state
+** Note: Disable updates to preven iOS to revert jailed state
+
+## Jailbreak iOS tools:
+- https://canijailbreak.com/ ()
+- https://pangu8.com/
+- https://chimera-jailbreak.com/jailbreak/
+## Tools for install IPA files in IPhone:
+- http://www.cydiaimpactor.com/
+- Cydia app store
+- Sileo app store
 
 Refrences:
 - https://support.apple.com/fr-fr/guide/security/secac71d5623/web
