@@ -20,7 +20,7 @@ Levels of boot
 4. Kernel: after all the steps have been verified, the kernel can initialize.
 5. Applications
 
-** Note: Disable updates to preven iOS to revert jailed state
+** Note: Disable updates to prevent iOS to revert jailed state
 
 ## Jailbreak iOS tools:
 - https://canijailbreak.com/
