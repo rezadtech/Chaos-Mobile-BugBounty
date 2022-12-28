@@ -1,4 +1,4 @@
-# iOS Security tips
+# iOS Jail broken tips
 
 
 ## Secure BootChain
