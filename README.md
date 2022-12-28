@@ -1,2 +1,2 @@
 # Chaos Mobile BugBounty
-All tips for mobile securty are gathering in this place
+All tips for mobile security are gathering in this place
