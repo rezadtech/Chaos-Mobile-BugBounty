@@ -23,7 +23,7 @@ Levels of boot
 ** Note: Disable updates to preven iOS to revert jailed state
 
 ## Jailbreak iOS tools:
-- https://canijailbreak.com/ ()
+- https://canijailbreak.com/
 - https://pangu8.com/
 - https://chimera-jailbreak.com/jailbreak/
 ## Tools for install IPA files in IPhone:
